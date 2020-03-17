@@ -13,4 +13,4 @@ permalink: /about/
 
 ### Contact me
 
-hjh7785@naver.com로 쪽지바랍니다.
+메일을 잘 이용하지 않아 오픈카카오톡방 개설예정.
